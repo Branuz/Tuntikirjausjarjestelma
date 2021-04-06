@@ -1,0 +1,53 @@
+form{
+
+padding: 20px;
+font-size: 18px;
+width: fit-content;
+
+}
+label{
+    color:rgb(13, 13, 14);
+    padding: 20px;
+}
+.päivä{
+    border-style: groove;
+    background-color: rgb(161, 161, 161);
+    padding: 10px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  h4 {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    background-color: #e5f58d;
+  }
+  button{
+    
+    padding:8px;
+    margin-top: 10px;
+    background-color: beige;
+  }
+  .lähetä{
+    background-color: rgb(58, 173, 58);
+    margin-left: 100px;
+  }
+  .main {
+    padding: 10px;
+    padding-left: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
