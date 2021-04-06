@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
-
-const url = "mongodb+srv://Branuz:NOkia6280!@fullstack.fujal.mongodb.net/tuntikirjausjärjestelmä?retryWrites=true&w=majority"
+//url hidden
+const url = 
 
 console.log('connecting to', url)
 
