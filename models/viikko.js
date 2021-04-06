@@ -1,9 +1,7 @@
 const mongoose = require('mongoose')
 
-
-const url = "mongodb+srv://Branuz:NOkia6280!@fullstack.fujal.mongodb.net/tuntikirjausjärjestelmä?retryWrites=true&w=majority"
-
-console.log('connecting to', url)
+//url hidden
+const url = 
 
 mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false, useCreateIndex: true })
   .then(result => {
